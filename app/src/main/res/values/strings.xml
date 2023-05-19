@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLazinessSolver</string>
+
+    <string name="noconn">블루투스 연결 안됨.</string>
+    <string name="conn">블루투스 연결됨.</string>
+    <string name="bton">블루투스 On</string>
+    <string name="btoff">블루투스 Off</string>
+    <string name="btpar">블루투스 연결</string>
+</resources>
